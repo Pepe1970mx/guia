@@ -1,0 +1,1686 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Azteca Uno">
+    <display-name lang="es">Azteca Uno</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Las Estrellas">
+    <display-name lang="es">Las Estrellas</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal 5">
+    <display-name lang="es">Canal 5</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Azteca 7">
+    <display-name lang="es">Azteca 7</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="a mas">
+    <display-name lang="es">a mas</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Nueve">
+    <display-name lang="es">Canal Nueve</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal once">
+    <display-name lang="es">Canal once</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="AZ Cinema">
+    <display-name lang="es">AZ Cinema</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="FOX channel">
+    <display-name lang="es">FOX channel</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="AMC">
+    <display-name lang="es">AMC</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="TNT">
+    <display-name lang="es">TNT</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Space">
+    <display-name lang="es">Space</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="ESPN">
+    <display-name lang="es">ESPN</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="ESPN 2">
+    <display-name lang="es">ESPN 2</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="FOX sports">
+    <display-name lang="es">FOX sports</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="FOX sports 2">
+    <display-name lang="es">FOX sports 2</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="TUDN">
+    <display-name lang="es">TUDN</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="CINEMA DINAMITA">
+    <display-name lang="es">CINEMA DINAMITA</display-name>
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="CITY TV">
+    <display-name lang="es">CITY TV</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/e3eeba8d30ab4a97d02ac17a916f1f1a.jpg" />
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="HBO 2">
+    <display-name lang="es">HBO 2</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <programme start="20210206001500 -0600" stop="20210206003000 -0600" channel="Azteca Uno">
+    <title lang="es">Iglesia Universal</title>
+  </programme>
+  <programme start="20210206003000 -0600" stop="20210206040000 -0600" channel="Azteca Uno">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20210206040000 -0600" stop="20210206041500 -0600" channel="Azteca Uno">
+    <title lang="es">Azteca Uno</title>
+  </programme>
+  <programme start="20210206041500 -0600" stop="20210206050000 -0600" channel="Azteca Uno">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20210206050000 -0600" stop="20210206053000 -0600" channel="Azteca Uno">
+    <title lang="es">Que Cotorreo</title>
+  </programme>
+  <programme start="20210206053000 -0600" stop="20210206061500 -0600" channel="Azteca Uno">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20210206061500 -0600" stop="20210206080000 -0600" channel="Azteca Uno">
+    <title lang="es">Azteca Uno</title>
+  </programme>
+  <programme start="20210206080000 -0600" stop="20210206090000 -0600" channel="Azteca Uno">
+    <title lang="es">Lo que callamos las mujeres</title>
+  </programme>
+  <programme start="20210206090000 -0600" stop="20210206110000 -0600" channel="Azteca Uno">
+    <title lang="es">Venga la alegría En Vivo</title>
+  </programme>
+  <programme start="20210206110000 -0600" stop="20210206130000 -0600" channel="Azteca Uno">
+    <title lang="es">Venga la alegría En Vivo</title>
+  </programme>
+  <programme start="20210206130000 -0600" stop="20210206140000 -0600" channel="Azteca Uno">
+    <title lang="es">Venga la alegría En Vivo</title>
+  </programme>
+  <programme start="20210206140000 -0600" stop="20210206150000 -0600" channel="Azteca Uno">
+    <title lang="es">Hechos Sábado</title>
+  </programme>
+  <programme start="20210206150000 -0600" stop="20210206180000 -0600" channel="Azteca Uno">
+    <title lang="es">Mi pareja puede</title>
+  </programme>
+  <programme start="20210206180000 -0600" stop="20210206200000 -0600" channel="Azteca Uno">
+    <title lang="es">Al extremo</title>
+  </programme>
+  <programme start="20210206200000 -0600" stop="20210206230000 -0600" channel="Azteca Uno">
+    <title lang="es">Corazón grupero</title>
+  </programme>
+  <programme start="20210206230000 -0600" stop="20210207000000 -0600" channel="Azteca Uno">
+    <title lang="es">La resolana</title>
+  </programme>
+  <programme start="20210207000000 -0600" stop="20210207010000 -0600" channel="Azteca Uno">
+    <title lang="es">La resolana</title>
+  </programme>
+  <programme start="20210207010000 -0600" stop="20210207050000 -0600" channel="Azteca Uno">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20210207050000 -0600" stop="20210207053000 -0600" channel="Azteca Uno">
+    <title lang="es">Que Cotorreo</title>
+  </programme>
+  <programme start="20210207053000 -0600" stop="20210207061500 -0600" channel="Azteca Uno">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20210207061500 -0600" stop="20210207080000 -0600" channel="Azteca Uno">
+    <title lang="es">Azteca Uno</title>
+  </programme>
+  <programme start="20210207080000 -0600" stop="20210207090000 -0600" channel="Azteca Uno">
+    <title lang="es">Lo que callamos las mujeres</title>
+  </programme>
+  <programme start="20210207090000 -0600" stop="20210207100000 -0600" channel="Azteca Uno">
+    <title lang="es">Hechos Domingo</title>
+  </programme>
+  <programme start="20210207100000 -0600" stop="20210207120000 -0600" channel="Azteca Uno">
+    <title lang="es">Venga la alegría En Vivo</title>
+  </programme>
+  <programme start="20210207120000 -0600" stop="20210207130000 -0600" channel="Azteca Uno">
+    <title lang="es">Deezer Live</title>
+  </programme>
+  <programme start="20210207130000 -0600" stop="20210207140000 -0600" channel="Azteca Uno">
+    <title lang="es">Lo que callamos las mujeres</title>
+  </programme>
+  <programme start="20210207140000 -0600" stop="20210207150000 -0600" channel="Azteca Uno">
+    <title lang="es">En sus Batallas</title>
+  </programme>
+  <programme start="20210207150000 -0600" stop="20210207180000 -0600" channel="Azteca Uno">
+    <title lang="es">MasterChef</title>
+  </programme>
+  <programme start="20210207180000 -0600" stop="20210207200000 -0600" channel="Azteca Uno">
+    <title lang="es">Domingo Al Extremo</title>
+  </programme>
+  <programme start="20210207200000 -0600" stop="20210207231500 -0600" channel="Azteca Uno">
+    <title lang="es">Exatlón Titanes vs. Héroes</title>
+  </programme>
+  <programme start="20210207231500 -0600" stop="20210208001500 -0600" channel="Azteca Uno">
+    <title lang="es">La resolana</title>
+  </programme>
+  <programme start="20210206010000 -0600" stop="20210206043000 -0600" channel="Las Estrellas">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20210206043000 -0600" stop="20210206050000 -0600" channel="Las Estrellas">
+    <title lang="es">Veredicto Final</title>
+  </programme>
+  <programme start="20210206050000 -0600" stop="20210206053000 -0600" channel="Las Estrellas">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20210206053000 -0600" stop="20210206060000 -0600" channel="Las Estrellas">
+    <title lang="es">Farmacias de similares</title>
+  </programme>
+  <programme start="20210206060000 -0600" stop="20210206071500 -0600" channel="Las Estrellas">
+    <title lang="es">Papá soltero</title>
+  </programme>
+  <programme start="20210206071500 -0600" stop="20210206090000 -0600" channel="Las Estrellas">
+    <title lang="es">Despedida de casada</title>
+  </programme>
+  <programme start="20210206090000 -0600" stop="20210206110000 -0600" channel="Las Estrellas">
+    <title lang="es">El derecho de los pobres</title>
+  </programme>
+  <programme start="20210206110000 -0600" stop="20210206130000 -0600" channel="Las Estrellas">
+    <title lang="es">Cuentamelo Ya</title>
+  </programme>
+  <programme start="20210206130000 -0600" stop="20210206144500 -0600" channel="Las Estrellas">
+    <title lang="es">Perdóname todo</title>
+  </programme>
+  <programme start="20210206144500 -0600" stop="20210206170000 -0600" channel="Las Estrellas">
+    <title lang="es">Conserje en condominio</title>
+  </programme>
+  <programme start="20210206170000 -0600" stop="20210206190000 -0600" channel="Las Estrellas">
+    <title lang="es">Esta historia me suena</title>
+  </programme>
+  <programme start="20210206190000 -0600" stop="20210206210000 -0600" channel="Las Estrellas">
+    <title lang="es">Como dice el dicho</title>
+  </programme>
+  <programme start="20210206210000 -0600" stop="20210206230000 -0600" channel="Las Estrellas">
+    <title lang="es">Sin miedo a la verdad</title>
+  </programme>
+  <programme start="20210206230000 -0600" stop="20210207000000 -0600" channel="Las Estrellas">
+    <title lang="es">Más Noche</title>
+  </programme>
+  <programme start="20210207000000 -0600" stop="20210207020000 -0600" channel="Las Estrellas">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20210207020000 -0600" stop="20210207040000 -0600" channel="Las Estrellas">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20210207040000 -0600" stop="20210207043000 -0600" channel="Las Estrellas">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20210207043000 -0600" stop="20210207050000 -0600" channel="Las Estrellas">
+    <title lang="es">Veredicto Final</title>
+  </programme>
+  <programme start="20210207050000 -0600" stop="20210207060000 -0600" channel="Las Estrellas">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20210207071500 -0600" stop="20210207091500 -0600" channel="Las Estrellas">
+    <title lang="es">Escápate conmigo</title>
+  </programme>
+  <programme start="20210207091500 -0600" stop="20210207110000 -0600" channel="Las Estrellas">
+    <title lang="es">El Silencioso</title>
+  </programme>
+  <programme start="20210207110000 -0600" stop="20210207115000 -0600" channel="Las Estrellas">
+    <title lang="es">Más Deporte En Vivo</title>
+  </programme>
+  <programme start="20210207115000 -0600" stop="20210207140000 -0600" channel="Las Estrellas">
+    <title lang="es">Toluca vs. Mazatlán FC En Vivo</title>
+  </programme>
+  <programme start="20210207140000 -0600" stop="20210207150000 -0600" channel="Las Estrellas">
+    <title lang="es">Acción</title>
+  </programme>
+  <programme start="20210207150000 -0600" stop="20210207153000 -0600" channel="Las Estrellas">
+    <title lang="es">Nosotros los guapos</title>
+  </programme>
+  <programme start="20210207153000 -0600" stop="20210207163000 -0600" channel="Las Estrellas">
+    <title lang="es">100 mexicanos dijieron</title>
+  </programme>
+  <programme start="20210207163000 -0600" stop="20210207181500 -0600" channel="Las Estrellas">
+    <title lang="es">Te Juro que Yo no Fui</title>
+  </programme>
+  <programme start="20210207181500 -0600" stop="20210207203000 -0600" channel="Las Estrellas">
+    <title lang="es">Vecinos</title>
+  </programme>
+  <programme start="20210207203000 -0600" stop="20210207230000 -0600" channel="Las Estrellas">
+    <title lang="es">La Mexicana y el Güero</title>
+  </programme>
+  <programme start="20210207230000 -0600" stop="20210208000000 -0600" channel="Las Estrellas">
+    <title lang="es">La Jugada En Vivo</title>
+  </programme>
+  <programme start="20210206020000 -0600" stop="20210206040000 -0600" channel="Canal 5">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20210206040000 -0600" stop="20210206043000 -0600" channel="Canal 5">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20210206043000 -0600" stop="20210206050000 -0600" channel="Canal 5">
+    <title lang="es">Lo mejor de Aqui y Ahora</title>
+  </programme>
+  <programme start="20210206050000 -0600" stop="20210206053000 -0600" channel="Canal 5">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20210206053000 -0600" stop="20210206060000 -0600" channel="Canal 5">
+    <title lang="es">Soy sano</title>
+  </programme>
+  <programme start="20210206060000 -0600" stop="20210206070000 -0600" channel="Canal 5">
+    <title lang="es">Los Caballeros del Zodiaco</title>
+  </programme>
+  <programme start="20210206070000 -0600" stop="20210206073000 -0600" channel="Canal 5">
+    <title lang="es">Blaze and the Monster Machine</title>
+  </programme>
+  <programme start="20210206073000 -0600" stop="20210206080000 -0600" channel="Canal 5">
+    <title lang="es">Ricky Zoom</title>
+  </programme>
+  <programme start="20210206080000 -0600" stop="20210206083000 -0600" channel="Canal 5">
+    <title lang="es">Super Wings</title>
+  </programme>
+  <programme start="20210206083000 -0600" stop="20210206090000 -0600" channel="Canal 5">
+    <title lang="es">Muzzy Club</title>
+  </programme>
+  <programme start="20210206090000 -0600" stop="20210206093000 -0600" channel="Canal 5">
+    <title lang="es">Enchantimals</title>
+  </programme>
+  <programme start="20210206093000 -0600" stop="20210206103000 -0600" channel="Canal 5">
+    <title lang="es">Barbie Dreamhouse Adventures</title>
+  </programme>
+  <programme start="20210206103000 -0600" stop="20210206104500 -0600" channel="Canal 5">
+    <title lang="es">Barbie Dreamhouse Adventures</title>
+  </programme>
+  <programme start="20210206104500 -0600" stop="20210206115500 -0600" channel="Canal 5">
+    <title lang="es">Polly Pocket</title>
+  </programme>
+  <programme start="20210206115500 -0600" stop="20210206130000 -0600" channel="Canal 5">
+    <title lang="es">Team hot wheels</title>
+  </programme>
+  <programme start="20210206130000 -0600" stop="20210206151500 -0600" channel="Canal 5">
+    <title lang="es">The Thundermans</title>
+  </programme>
+  <programme start="20210206151500 -0600" stop="20210206171500 -0600" channel="Canal 5">
+    <title lang="es">La tierra de los muertos</title>
+  </programme>
+  <programme start="20210206171500 -0600" stop="20210206185000 -0600" channel="Canal 5">
+    <title lang="es">Zombeavers castores zombies</title>
+  </programme>
+  <programme start="20210206185000 -0600" stop="20210206210000 -0600" channel="Canal 5">
+    <title lang="es">América vs. Puebla En Vivo</title>
+  </programme>
+  <programme start="20210206210000 -0600" stop="20210206230000 -0600" channel="Canal 5">
+    <title lang="es">Pistolero</title>
+  </programme>
+  <programme start="20210206230000 -0600" stop="20210207003000 -0600" channel="Canal 5">
+    <title lang="es">Un monje baja de la montaña</title>
+  </programme>
+  <programme start="20210207230000 -0600" stop="20210208003000 -0600" channel="Canal 5">
+    <title lang="es">Un monje baja de la montaña</title>
+  </programme>
+  <programme start="20210208003000 -0600" stop="20210208010000 -0600" channel="Canal 5">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20210208010000 -0600" stop="20210208013000 -0600" channel="Canal 5">
+    <title lang="es">Lo mejor de Aqui y Ahora</title>
+  </programme>
+  <programme start="20210208013000 -0600" stop="20210208043000 -0600" channel="Canal 5">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20210208043000 -0600" stop="20210208050000 -0600" channel="Canal 5">
+    <title lang="es">Lo mejor de Aqui y Ahora</title>
+  </programme>
+  <programme start="20210208050000 -0600" stop="20210208060000 -0600" channel="Canal 5">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20210208070000 -0600" stop="20210208080000 -0600" channel="Canal 5">
+    <title lang="es">Blaze and the Monster Machine</title>
+  </programme>
+  <programme start="20210208080000 -0600" stop="20210208090000 -0600" channel="Canal 5">
+    <title lang="es">Deep el Pulpo</title>
+  </programme>
+  <programme start="20210208090000 -0600" stop="20210208104500 -0600" channel="Canal 5">
+    <title lang="es">Las brujas</title>
+  </programme>
+  <programme start="20210208104500 -0600" stop="20210208124500 -0600" channel="Canal 5">
+    <title lang="es">El regreso de la nana mágica</title>
+  </programme>
+  <programme start="20210208124500 -0600" stop="20210208144500 -0600" channel="Canal 5">
+    <title lang="es">Matilda</title>
+  </programme>
+  <programme start="20210208144500 -0600" stop="20210208170000 -0600" channel="Canal 5">
+    <title lang="es">Terremoto Falla de San Andrés</title>
+  </programme>
+  <programme start="20210208170000 -0600" stop="20210208190000 -0600" channel="Canal 5">
+    <title lang="es">Kansas City vs. Tampa Bay En Vivo</title>
+  </programme>
+  <programme start="20210208190000 -0600" stop="20210208210000 -0600" channel="Canal 5">
+    <title lang="es">Kansas City vs. Tampa Bay En Vivo</title>
+  </programme>
+  <programme start="20210208210000 -0600" stop="20210208213000 -0600" channel="Canal 5">
+    <title lang="es">Kansas City vs. Tampa Bay En Vivo</title>
+  </programme>
+  <programme start="20210208213000 -0600" stop="20210208234500 -0600" channel="Canal 5">
+    <title lang="es">Mi pobre angelito</title>
+  </programme>
+  <programme start="20210208234500 -0600" stop="20210209000000 -0600" channel="Canal 5">
+    <title lang="es">Cómo Entrenar a Tu Dragón Re</title>
+  </programme>
+  <programme start="20210206003000 -0600" stop="20210206043000 -0600" channel="Azteca 7">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20210206043000 -0600" stop="20210206050000 -0600" channel="Azteca 7">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20210206050000 -0600" stop="20210206051500 -0600" channel="Azteca 7">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20210206051500 -0600" stop="20210206053000 -0600" channel="Azteca 7">
+    <title lang="es">RTC</title>
+  </programme>
+  <programme start="20210206053000 -0600" stop="20210206063000 -0600" channel="Azteca 7">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20210206063000 -0600" stop="20210206070000 -0600" channel="Azteca 7">
+    <title lang="es">OM NOM</title>
+  </programme>
+  <programme start="20210206070000 -0600" stop="20210206073000 -0600" channel="Azteca 7">
+    <title lang="es">Betty Toons</title>
+  </programme>
+  <programme start="20210206073000 -0600" stop="20210206080000 -0600" channel="Azteca 7">
+    <title lang="es">Vera y el Reino Arcoíris</title>
+  </programme>
+  <programme start="20210206080000 -0600" stop="20210206083000 -0600" channel="Azteca 7">
+    <title lang="es">Molang</title>
+  </programme>
+  <programme start="20210206083000 -0600" stop="20210206090000 -0600" channel="Azteca 7">
+    <title lang="es">Pocoyó</title>
+  </programme>
+  <programme start="20210206090000 -0600" stop="20210206100000 -0600" channel="Azteca 7">
+    <title lang="es">Beyblade burst</title>
+  </programme>
+  <programme start="20210206100000 -0600" stop="20210206104500 -0600" channel="Azteca 7">
+    <title lang="es">Power Rangers Dino Charge</title>
+  </programme>
+  <programme start="20210206104500 -0600" stop="20210206113000 -0600" channel="Azteca 7">
+    <title lang="es">Transformers Rescue Bots</title>
+  </programme>
+  <programme start="20210206113000 -0600" stop="20210206120000 -0600" channel="Azteca 7">
+    <title lang="es">My Little Pony La magia</title>
+  </programme>
+  <programme start="20210206120000 -0600" stop="20210206143000 -0600" channel="Azteca 7">
+    <title lang="es">El Rey Arturo</title>
+  </programme>
+  <programme start="20210206143000 -0600" stop="20210206170000 -0600" channel="Azteca 7">
+    <title lang="es">Océano de fuego</title>
+  </programme>
+  <programme start="20210206170000 -0600" stop="20210206203000 -0600" channel="Azteca 7">
+    <title lang="es">Corazón Valiente</title>
+  </programme>
+  <programme start="20210206203000 -0600" stop="20210206230000 -0600" channel="Azteca 7">
+    <title lang="es">Percy Jackson</title>
+  </programme>
+  <programme start="20210206230000 -0600" stop="20210207000000 -0600" channel="Azteca 7">
+    <title lang="es">Box Azteca</title>
+  </programme>
+  <programme start="20210207000000 -0600" stop="20210207010000 -0600" channel="Azteca 7">
+    <title lang="es">Lucha Azteca AAA</title>
+  </programme>
+  <programme start="20210207010000 -0600" stop="20210207050000 -0600" channel="Azteca 7">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20210207050000 -0600" stop="20210207051500 -0600" channel="Azteca 7">
+    <title lang="es">Azteca 7</title>
+  </programme>
+  <programme start="20210207051500 -0600" stop="20210207053000 -0600" channel="Azteca 7">
+    <title lang="es">RTC</title>
+  </programme>
+  <programme start="20210207053000 -0600" stop="20210207063000 -0600" channel="Azteca 7">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20210207063000 -0600" stop="20210207081500 -0600" channel="Azteca 7">
+    <title lang="es">Beethoven 2</title>
+  </programme>
+  <programme start="20210207081500 -0600" stop="20210207103000 -0600" channel="Azteca 7">
+    <title lang="es">A prueba de balas</title>
+  </programme>
+  <programme start="20210207103000 -0600" stop="20210207124500 -0600" channel="Azteca 7">
+    <title lang="es">Buscando a Nemo</title>
+  </programme>
+  <programme start="20210207124500 -0600" stop="20210207144500 -0600" channel="Azteca 7">
+    <title lang="es">La Era de Hielo 3</title>
+  </programme>
+  <programme start="20210207144500 -0600" stop="20210207170000 -0600" channel="Azteca 7">
+    <title lang="es">Coco</title>
+  </programme>
+  <programme start="20210207170000 -0600" stop="20210207190000 -0600" channel="Azteca 7">
+    <title lang="es">Kansas City vs. Tampa Bay En Vivo</title>
+  </programme>
+  <programme start="20210207190000 -0600" stop="20210207210000 -0600" channel="Azteca 7">
+    <title lang="es">Kansas City vs. Tampa Bay En Vivo</title>
+  </programme>
+  <programme start="20210207210000 -0600" stop="20210207213000 -0600" channel="Azteca 7">
+    <title lang="es">Kansas City vs. Tampa Bay En Vivo</title>
+  </programme>
+  <programme start="20210207213000 -0600" stop="20210208000000 -0600" channel="Azteca 7">
+    <title lang="es">Los indestructibles 3</title>
+  </programme>
+  <programme start="20210206003000 -0600" stop="20210206023000 -0600" channel="a mas">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20210206023000 -0600" stop="20210206043000 -0600" channel="a mas">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20210206043000 -0600" stop="20210206051500 -0600" channel="a mas">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20210206051500 -0600" stop="20210206053000 -0600" channel="a mas">
+    <title lang="es">José de los milagros</title>
+  </programme>
+  <programme start="20210206053000 -0600" stop="20210206073000 -0600" channel="a mas">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20210206073000 -0600" stop="20210206103000 -0600" channel="a mas">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20210206103000 -0600" stop="20210206110000 -0600" channel="a mas">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20210206110000 -0600" stop="20210206113000 -0600" channel="a mas">
+    <title lang="es">Agua Inmaculada</title>
+  </programme>
+  <programme start="20210206113000 -0600" stop="20210206120000 -0600" channel="a mas">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20210206120000 -0600" stop="20210206123000 -0600" channel="a mas">
+    <title lang="es">Agua Inmaculada</title>
+  </programme>
+  <programme start="20210206123000 -0600" stop="20210206150000 -0600" channel="a mas">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20210206150000 -0600" stop="20210206153000 -0600" channel="a mas">
+    <title lang="es">Vive +</title>
+  </programme>
+  <programme start="20210206153000 -0600" stop="20210206160000 -0600" channel="a mas">
+    <title lang="es">Iglesia Adventista</title>
+  </programme>
+  <programme start="20210206160000 -0600" stop="20210206170000 -0600" channel="a mas">
+    <title lang="es">Desde el Nexo</title>
+  </programme>
+  <programme start="20210206170000 -0600" stop="20210206184500 -0600" channel="a mas">
+    <title lang="es">American ninja warrior</title>
+  </programme>
+  <programme start="20210206184500 -0600" stop="20210206203000 -0600" channel="a mas">
+    <title lang="es">Cómo Enfriar a Mi Marido</title>
+  </programme>
+  <programme start="20210206203000 -0600" stop="20210206214500 -0600" channel="a mas">
+    <title lang="es">Los indomables</title>
+  </programme>
+  <programme start="20210206214500 -0600" stop="20210206233000 -0600" channel="a mas">
+    <title lang="es">De Pulquero A Millonario</title>
+  </programme>
+  <programme start="20210206233000 -0600" stop="20210207000000 -0600" channel="a mas">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20210207053000 -0600" stop="20210207093000 -0600" channel="a mas">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20210207093000 -0600" stop="20210207100000 -0600" channel="a mas">
+    <title lang="es">Aqua Clyva</title>
+  </programme>
+  <programme start="20210207100000 -0600" stop="20210207103000 -0600" channel="a mas">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20210207103000 -0600" stop="20210207110000 -0600" channel="a mas">
+    <title lang="es">Agua Inmaculada</title>
+  </programme>
+  <programme start="20210207110000 -0600" stop="20210207150000 -0600" channel="a mas">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20210207150000 -0600" stop="20210207160000 -0600" channel="a mas">
+    <title lang="es">Clima Mortal</title>
+  </programme>
+  <programme start="20210207160000 -0600" stop="20210207170000 -0600" channel="a mas">
+    <title lang="es">Desde el Nexo</title>
+  </programme>
+  <programme start="20210207170000 -0600" stop="20210207180000 -0600" channel="a mas">
+    <title lang="es">Clima Mortal</title>
+  </programme>
+  <programme start="20210207180000 -0600" stop="20210207200000 -0600" channel="a mas">
+    <title lang="es">T3rcer Milenio Noticias</title>
+  </programme>
+  <programme start="20210207200000 -0600" stop="20210207210000 -0600" channel="a mas">
+    <title lang="es">Duda lo increible es la verdad</title>
+  </programme>
+  <programme start="20210207210000 -0600" stop="20210207220000 -0600" channel="a mas">
+    <title lang="es">Teorías del fin del mundo</title>
+  </programme>
+  <programme start="20210207220000 -0600" stop="20210207230000 -0600" channel="a mas">
+    <title lang="es">Extranormal</title>
+  </programme>
+  <programme start="20210207230000 -0600" stop="20210207233000 -0600" channel="a mas">
+    <title lang="es">Para la gente que se quiere</title>
+  </programme>
+  <programme start="20210207233000 -0600" stop="20210208003000 -0600" channel="a mas">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20210206010000 -0600" stop="20210206040000 -0600" channel="Canal Nueve">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20210206040000 -0600" stop="20210206043000 -0600" channel="Canal Nueve">
+    <title lang="es">Lo mejor de Aqui y Ahora</title>
+  </programme>
+  <programme start="20210206043000 -0600" stop="20210206083000 -0600" channel="Canal Nueve">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20210206083000 -0600" stop="20210206123000 -0600" channel="Canal Nueve">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20210206123000 -0600" stop="20210206133000 -0600" channel="Canal Nueve">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20210206133000 -0600" stop="20210206143000 -0600" channel="Canal Nueve">
+    <title lang="es">Reventon musical</title>
+  </programme>
+  <programme start="20210206143000 -0600" stop="20210206153000 -0600" channel="Canal Nueve">
+    <title lang="es">Hazaña el deporte vive</title>
+  </programme>
+  <programme start="20210206153000 -0600" stop="20210206170000 -0600" channel="Canal Nueve">
+    <title lang="es">Lucha libre CMLL</title>
+  </programme>
+  <programme start="20210206170000 -0600" stop="20210206171500 -0600" channel="Canal Nueve">
+    <title lang="es">La Escuelita V.I.P</title>
+  </programme>
+  <programme start="20210206171500 -0600" stop="20210206190000 -0600" channel="Canal Nueve">
+    <title lang="es">Don Herculano enamorado</title>
+  </programme>
+  <programme start="20210206190000 -0600" stop="20210206210000 -0600" channel="Canal Nueve">
+    <title lang="es">El moro de cumpas</title>
+  </programme>
+  <programme start="20210206210000 -0600" stop="20210206224500 -0600" channel="Canal Nueve">
+    <title lang="es">Caravana de la muerte</title>
+  </programme>
+  <programme start="20210206224500 -0600" stop="20210207003000 -0600" channel="Canal Nueve">
+    <title lang="es">Mexican Gangster La Leyenda</title>
+  </programme>
+  <programme start="20210207224500 -0600" stop="20210208003000 -0600" channel="Canal Nueve">
+    <title lang="es">Mexican Gangster La Leyenda</title>
+  </programme>
+  <programme start="20210208003000 -0600" stop="20210208010000 -0600" channel="Canal Nueve">
+    <title lang="es">Veredicto Final</title>
+  </programme>
+  <programme start="20210208010000 -0600" stop="20210208040000 -0600" channel="Canal Nueve">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20210208040000 -0600" stop="20210208043000 -0600" channel="Canal Nueve">
+    <title lang="es">Lo mejor de Aqui y Ahora</title>
+  </programme>
+  <programme start="20210208043000 -0600" stop="20210208083000 -0600" channel="Canal Nueve">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20210208083000 -0600" stop="20210208123000 -0600" channel="Canal Nueve">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20210208123000 -0600" stop="20210208140000 -0600" channel="Canal Nueve">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20210208140000 -0600" stop="20210208153000 -0600" channel="Canal Nueve">
+    <title lang="es">La Escuelita V.I.P</title>
+  </programme>
+  <programme start="20210208153000 -0600" stop="20210208170000 -0600" channel="Canal Nueve">
+    <title lang="es">El jinete solitario</title>
+  </programme>
+  <programme start="20210208170000 -0600" stop="20210208184500 -0600" channel="Canal Nueve">
+    <title lang="es">Alas doradas</title>
+  </programme>
+  <programme start="20210208184500 -0600" stop="20210208203000 -0600" channel="Canal Nueve">
+    <title lang="es">Triste recuerdo</title>
+  </programme>
+  <programme start="20210208203000 -0600" stop="20210208221500 -0600" channel="Canal Nueve">
+    <title lang="es">Sabor a sangre</title>
+  </programme>
+  <programme start="20210208221500 -0600" stop="20210209000000 -0600" channel="Canal Nueve">
+    <title lang="es">El contrabando del paso</title>
+  </programme>
+  <programme start="20210206010000 -0600" stop="20210206023000 -0600" channel="AZ Cinema">
+    <title lang="es">El Rápido en la Frontera sin Ley</title>
+  </programme>
+  <programme start="20210206023000 -0600" stop="20210206040000 -0600" channel="AZ Cinema">
+    <title lang="es">Santo Contra el Cerebro del Mal</title>
+  </programme>
+  <programme start="20210206040000 -0600" stop="20210206053000 -0600" channel="AZ Cinema">
+    <title lang="es">El Rápido en la Frontera sin Ley</title>
+  </programme>
+  <programme start="20210206053000 -0600" stop="20210206060000 -0600" channel="AZ Cinema">
+    <title lang="es">Intermedio AZ Cinema</title>
+  </programme>
+  <programme start="20210206060000 -0600" stop="20210206063000 -0600" channel="AZ Cinema">
+    <title lang="es">Intermedio AZ Cinema</title>
+  </programme>
+  <programme start="20210206063000 -0600" stop="20210206080000 -0600" channel="AZ Cinema">
+    <title lang="es">¡Quiero vivir mi vida</title>
+  </programme>
+  <programme start="20210206080000 -0600" stop="20210206093000 -0600" channel="AZ Cinema">
+    <title lang="es">Chico Pistolón</title>
+  </programme>
+  <programme start="20210206093000 -0600" stop="20210206100000 -0600" channel="AZ Cinema">
+    <title lang="es">Intermedio AZ Cinema</title>
+  </programme>
+  <programme start="20210206100000 -0600" stop="20210206113000 -0600" channel="AZ Cinema">
+    <title lang="es">Atentados del poder</title>
+  </programme>
+  <programme start="20210206113000 -0600" stop="20210206130000 -0600" channel="AZ Cinema">
+    <title lang="es">De Pulquero A Millonario</title>
+  </programme>
+  <programme start="20210206130000 -0600" stop="20210206133000 -0600" channel="AZ Cinema">
+    <title lang="es">Intermedio AZ Cinema</title>
+  </programme>
+  <programme start="20210206133000 -0600" stop="20210206150000 -0600" channel="AZ Cinema">
+    <title lang="es">El joven del carrito</title>
+  </programme>
+  <programme start="20210206150000 -0600" stop="20210206163000 -0600" channel="AZ Cinema">
+    <title lang="es">Cadena de mentiras</title>
+  </programme>
+  <programme start="20210206163000 -0600" stop="20210206170000 -0600" channel="AZ Cinema">
+    <title lang="es">Intermedio AZ Cinema</title>
+  </programme>
+  <programme start="20210206170000 -0600" stop="20210206183000 -0600" channel="AZ Cinema">
+    <title lang="es">Karla Contra los Jaguares</title>
+  </programme>
+  <programme start="20210206183000 -0600" stop="20210206200000 -0600" channel="AZ Cinema">
+    <title lang="es">Pensión de artistas</title>
+  </programme>
+  <programme start="20210206200000 -0600" stop="20210206203000 -0600" channel="AZ Cinema">
+    <title lang="es">Intermedio AZ Cinema</title>
+  </programme>
+  <programme start="20210206203000 -0600" stop="20210206220000 -0600" channel="AZ Cinema">
+    <title lang="es">Cristo 70</title>
+  </programme>
+  <programme start="20210206220000 -0600" stop="20210206233000 -0600" channel="AZ Cinema">
+    <title lang="es">Baila mi amor</title>
+  </programme>
+  <programme start="20210206233000 -0600" stop="20210207010000 -0600" channel="AZ Cinema">
+    <title lang="es">¡Quiero vivir mi vida</title>
+  </programme>
+  <programme start="20210207010000 -0600" stop="20210207023000 -0600" channel="AZ Cinema">
+    <title lang="es">Chico Pistolón</title>
+  </programme>
+  <programme start="20210207023000 -0600" stop="20210207040000 -0600" channel="AZ Cinema">
+    <title lang="es">Atentados del poder</title>
+  </programme>
+  <programme start="20210207040000 -0600" stop="20210207053000 -0600" channel="AZ Cinema">
+    <title lang="es">De Pulquero A Millonario</title>
+  </programme>
+  <programme start="20210207063000 -0600" stop="20210207080000 -0600" channel="AZ Cinema">
+    <title lang="es">Novia a la medida</title>
+  </programme>
+  <programme start="20210207080000 -0600" stop="20210207093000 -0600" channel="AZ Cinema">
+    <title lang="es">Amor con amor se paga</title>
+  </programme>
+  <programme start="20210207100000 -0600" stop="20210207113000 -0600" channel="AZ Cinema">
+    <title lang="es">Santo Contra el Cerebro del Mal</title>
+  </programme>
+  <programme start="20210207113000 -0600" stop="20210207130000 -0600" channel="AZ Cinema">
+    <title lang="es">Dos alegres gavilanes</title>
+  </programme>
+  <programme start="20210207133000 -0600" stop="20210207150000 -0600" channel="AZ Cinema">
+    <title lang="es">El hombre de negro</title>
+  </programme>
+  <programme start="20210207150000 -0600" stop="20210207163000 -0600" channel="AZ Cinema">
+    <title lang="es">El Rápido en la Frontera sin Ley</title>
+  </programme>
+  <programme start="20210207170000 -0600" stop="20210207183000 -0600" channel="AZ Cinema">
+    <title lang="es">Una gringuita en México</title>
+  </programme>
+  <programme start="20210207183000 -0600" stop="20210207200000 -0600" channel="AZ Cinema">
+    <title lang="es">Tú solo tú</title>
+  </programme>
+  <programme start="20210207203000 -0600" stop="20210207220000 -0600" channel="AZ Cinema">
+    <title lang="es">El marido de mi novia</title>
+  </programme>
+  <programme start="20210207220000 -0600" stop="20210207233000 -0600" channel="AZ Cinema">
+    <title lang="es">Rosa de dos aromas</title>
+  </programme>
+  <programme start="20210207233000 -0600" stop="20210208010000 -0600" channel="AZ Cinema">
+    <title lang="es">Novia a la medida</title>
+  </programme>
+  <programme start="20210206000800 -0600" stop="20210206003300 -0600" channel="FOX channel">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210206003300 -0600" stop="20210206005800 -0600" channel="FOX channel">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210206005800 -0600" stop="20210206024400 -0600" channel="FOX channel">
+    <title lang="es">Feliz Día de tu Muerte</title>
+  </programme>
+  <programme start="20210206024400 -0600" stop="20210206043800 -0600" channel="FOX channel">
+    <title lang="es">Chicago</title>
+  </programme>
+  <programme start="20210206043800 -0600" stop="20210206061800 -0600" channel="FOX channel">
+    <title lang="es">Grace Unplugged</title>
+  </programme>
+  <programme start="20210206061800 -0600" stop="20210206070000 -0600" channel="FOX channel">
+    <title lang="es">Bless This Mess</title>
+  </programme>
+  <programme start="20210206070000 -0600" stop="20210206074700 -0600" channel="FOX channel">
+    <title lang="es">9-1-1 Lone Star</title>
+  </programme>
+  <programme start="20210206074700 -0600" stop="20210206091400 -0600" channel="FOX channel">
+    <title lang="es">Reyes de las olas 2</title>
+  </programme>
+  <programme start="20210206091400 -0600" stop="20210206111300 -0600" channel="FOX channel">
+    <title lang="es">Pokémon 7 Destino Deoxys</title>
+  </programme>
+  <programme start="20210206111300 -0600" stop="20210206130600 -0600" channel="FOX channel">
+    <title lang="es">Mi abuela es un peligro 2</title>
+  </programme>
+  <programme start="20210206130600 -0600" stop="20210206133000 -0600" channel="FOX channel">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210206133000 -0600" stop="20210206135600 -0600" channel="FOX channel">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210206135600 -0600" stop="20210206142100 -0600" channel="FOX channel">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210206142100 -0600" stop="20210206144700 -0600" channel="FOX channel">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210206144700 -0600" stop="20210206150700 -0600" channel="FOX channel">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210206150700 -0600" stop="20210206180600 -0600" channel="FOX channel">
+    <title lang="es">2012</title>
+  </programme>
+  <programme start="20210206180600 -0600" stop="20210206201400 -0600" channel="FOX channel">
+    <title lang="es">Deadpool 2</title>
+  </programme>
+  <programme start="20210206201400 -0600" stop="20210206215500 -0600" channel="FOX channel">
+    <title lang="es">Emoji: La Película</title>
+  </programme>
+  <programme start="20210206215500 -0600" stop="20210206233400 -0600" channel="FOX channel">
+    <title lang="es">Los Pingüinos de Madagascar</title>
+  </programme>
+  <programme start="20210206233400 -0600" stop="20210207014000 -0600" channel="FOX channel">
+    <title lang="es">Orgullo, prejuicio y zombies</title>
+  </programme>
+  <programme start="20210207014000 -0600" stop="20210207032200 -0600" channel="FOX channel">
+    <title lang="es">En la oscuridad</title>
+  </programme>
+  <programme start="20210207032200 -0600" stop="20210207051700 -0600" channel="FOX channel">
+    <title lang="es">Magic Mike</title>
+  </programme>
+  <programme start="20210207051700 -0600" stop="20210207060700 -0600" channel="FOX channel">
+    <title lang="es">Cumbia Ninja</title>
+  </programme>
+  <programme start="20210207060700 -0600" stop="20210207070000 -0600" channel="FOX channel">
+    <title lang="es">Cumbia Ninja</title>
+  </programme>
+  <programme start="20210207070000 -0600" stop="20210207082900 -0600" channel="FOX channel">
+    <title lang="es">Beethoven 5</title>
+  </programme>
+  <programme start="20210207082900 -0600" stop="20210207105100 -0600" channel="FOX channel">
+    <title lang="es">Duro de matar</title>
+  </programme>
+  <programme start="20210207105100 -0600" stop="20210207130800 -0600" channel="FOX channel">
+    <title lang="es">Duro de Matar 2</title>
+  </programme>
+  <programme start="20210207130800 -0600" stop="20210207153500 -0600" channel="FOX channel">
+    <title lang="es">Duro de matar 3</title>
+  </programme>
+  <programme start="20210207153500 -0600" stop="20210207180300 -0600" channel="FOX channel">
+    <title lang="es">Duro de Matar 4.0</title>
+  </programme>
+  <programme start="20210207180300 -0600" stop="20210207200000 -0600" channel="FOX channel">
+    <title lang="es">Duro de matar 5</title>
+  </programme>
+  <programme start="20210207200000 -0600" stop="20210207203000 -0600" channel="FOX channel">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210207203000 -0600" stop="20210207210000 -0600" channel="FOX channel">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210207210000 -0600" stop="20210207212500 -0600" channel="FOX channel">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210207212500 -0600" stop="20210207215500 -0600" channel="FOX channel">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210207215500 -0600" stop="20210208001700 -0600" channel="FOX channel">
+    <title lang="es">Terminator: Destino Oculto</title>
+  </programme>
+  <programme start="20210206001000 -0600" stop="20210206022000 -0600" channel="AMC">
+    <title lang="es">Líbranos del Mal</title>
+  </programme>
+  <programme start="20210206022000 -0600" stop="20210206040000 -0600" channel="AMC">
+    <title lang="es">Wild Target</title>
+  </programme>
+  <programme start="20210206040000 -0600" stop="20210206050000 -0600" channel="AMC">
+    <title lang="es">Fear the Walking Dead</title>
+  </programme>
+  <programme start="20210206050000 -0600" stop="20210206060000 -0600" channel="AMC">
+    <title lang="es">Fear the Walking Dead</title>
+  </programme>
+  <programme start="20210206060000 -0600" stop="20210206063000 -0600" channel="AMC">
+    <title lang="es">Action Zone</title>
+  </programme>
+  <programme start="20210206063000 -0600" stop="20210206070000 -0600" channel="AMC">
+    <title lang="es">Action Zone</title>
+  </programme>
+  <programme start="20210206070000 -0600" stop="20210206073000 -0600" channel="AMC">
+    <title lang="es">Planet Action</title>
+  </programme>
+  <programme start="20210206073000 -0600" stop="20210206080000 -0600" channel="AMC">
+    <title lang="es">Planet Action</title>
+  </programme>
+  <programme start="20210206080000 -0600" stop="20210206083000 -0600" channel="AMC">
+    <title lang="es">Planet Action</title>
+  </programme>
+  <programme start="20210206083000 -0600" stop="20210206090000 -0600" channel="AMC">
+    <title lang="es">Planet Action</title>
+  </programme>
+  <programme start="20210206090000 -0600" stop="20210206093000 -0600" channel="AMC">
+    <title lang="es">Planet Action</title>
+  </programme>
+  <programme start="20210206093000 -0600" stop="20210206100000 -0600" channel="AMC">
+    <title lang="es">Planet Action</title>
+  </programme>
+  <programme start="20210206100000 -0600" stop="20210206103000 -0600" channel="AMC">
+    <title lang="es">Planet Action</title>
+  </programme>
+  <programme start="20210206103000 -0600" stop="20210206110000 -0600" channel="AMC">
+    <title lang="es">Planet Action</title>
+  </programme>
+  <programme start="20210206110000 -0600" stop="20210206130000 -0600" channel="AMC">
+    <title lang="es">Whip It</title>
+  </programme>
+  <programme start="20210206130000 -0600" stop="20210206144000 -0600" channel="AMC">
+    <title lang="es">Yo, Frankenstein</title>
+  </programme>
+  <programme start="20210206144000 -0600" stop="20210206163000 -0600" channel="AMC">
+    <title lang="es">Pompeii La furia del volcán</title>
+  </programme>
+  <programme start="20210206163000 -0600" stop="20210206175500 -0600" channel="AMC">
+    <title lang="es">7500</title>
+  </programme>
+  <programme start="20210206175500 -0600" stop="20210206194500 -0600" channel="AMC">
+    <title lang="es">El Transportador 3</title>
+  </programme>
+  <programme start="20210206194500 -0600" stop="20210206220000 -0600" channel="AMC">
+    <title lang="es">El ataque</title>
+  </programme>
+  <programme start="20210206220000 -0600" stop="20210206234000 -0600" channel="AMC">
+    <title lang="es">Héroe de centro comercial</title>
+  </programme>
+  <programme start="20210206234000 -0600" stop="20210207011500 -0600" channel="AMC">
+    <title lang="es">La batalla de los malditos</title>
+  </programme>
+  <programme start="20210207011500 -0600" stop="20210207030500 -0600" channel="AMC">
+    <title lang="es">Encadenado</title>
+  </programme>
+  <programme start="20210207030500 -0600" stop="20210207043500 -0600" channel="AMC">
+    <title lang="es">S.W.A.T. Unidad Especial 2</title>
+  </programme>
+  <programme start="20210207043500 -0600" stop="20210207050000 -0600" channel="AMC">
+    <title lang="es">Planet Action</title>
+  </programme>
+  <programme start="20210207050000 -0600" stop="20210207053000 -0600" channel="AMC">
+    <title lang="es">Planet Action</title>
+  </programme>
+  <programme start="20210207053000 -0600" stop="20210207060000 -0600" channel="AMC">
+    <title lang="es">Planet Action</title>
+  </programme>
+  <programme start="20210207060000 -0600" stop="20210207063000 -0600" channel="AMC">
+    <title lang="es">Planet Action</title>
+  </programme>
+  <programme start="20210207063000 -0600" stop="20210207070000 -0600" channel="AMC">
+    <title lang="es">Planet Action</title>
+  </programme>
+  <programme start="20210207070000 -0600" stop="20210207073000 -0600" channel="AMC">
+    <title lang="es">Planet Action</title>
+  </programme>
+  <programme start="20210207073000 -0600" stop="20210207080000 -0600" channel="AMC">
+    <title lang="es">Planet Action</title>
+  </programme>
+  <programme start="20210207080000 -0600" stop="20210207083000 -0600" channel="AMC">
+    <title lang="es">Planet Action</title>
+  </programme>
+  <programme start="20210207083000 -0600" stop="20210207090000 -0600" channel="AMC">
+    <title lang="es">Planet Action</title>
+  </programme>
+  <programme start="20210207090000 -0600" stop="20210207093000 -0600" channel="AMC">
+    <title lang="es">Planet Action</title>
+  </programme>
+  <programme start="20210207093000 -0600" stop="20210207100000 -0600" channel="AMC">
+    <title lang="es">Planet Action</title>
+  </programme>
+  <programme start="20210207100000 -0600" stop="20210207103000 -0600" channel="AMC">
+    <title lang="es">Planet Action</title>
+  </programme>
+  <programme start="20210207103000 -0600" stop="20210207110000 -0600" channel="AMC">
+    <title lang="es">Planet Action</title>
+  </programme>
+  <programme start="20210207110000 -0600" stop="20210207125000 -0600" channel="AMC">
+    <title lang="es">My Own Love Song</title>
+  </programme>
+  <programme start="20210207125000 -0600" stop="20210207143500 -0600" channel="AMC">
+    <title lang="es">Centurión</title>
+  </programme>
+  <programme start="20210207143500 -0600" stop="20210207161500 -0600" channel="AMC">
+    <title lang="es">Ghost Rider Espíritu de</title>
+  </programme>
+  <programme start="20210207161500 -0600" stop="20210207183500 -0600" channel="AMC">
+    <title lang="es">El ataque</title>
+  </programme>
+  <programme start="20210207183500 -0600" stop="20210207201000 -0600" channel="AMC">
+    <title lang="es">Héroe de centro comercial</title>
+  </programme>
+  <programme start="20210207201000 -0600" stop="20210207220000 -0600" channel="AMC">
+    <title lang="es">El Transportador 3</title>
+  </programme>
+  <programme start="20210207220000 -0600" stop="20210207235500 -0600" channel="AMC">
+    <title lang="es">Terminator 3</title>
+  </programme>
+  <programme start="20210207235500 -0600" stop="20210208015500 -0600" channel="AMC">
+    <title lang="es">El Apocalipsis</title>
+  </programme>
+  <programme start="20210206000100 -0600" stop="20210206022600 -0600" channel="TNT">
+    <title lang="es">Corazones de Hierro (Fury)</title>
+  </programme>
+  <programme start="20210206022600 -0600" stop="20210206040800 -0600" channel="TNT">
+    <title lang="es">Feedback</title>
+  </programme>
+  <programme start="20210206040800 -0600" stop="20210206060000 -0600" channel="TNT">
+    <title lang="es">Inframundo</title>
+  </programme>
+  <programme start="20210206060000 -0600" stop="20210206063200 -0600" channel="TNT">
+    <title lang="es">Hollywood one on one</title>
+  </programme>
+  <programme start="20210206063200 -0600" stop="20210206085300 -0600" channel="TNT">
+    <title lang="es">El destino de Júpiter</title>
+  </programme>
+  <programme start="20210206085300 -0600" stop="20210206103600 -0600" channel="TNT">
+    <title lang="es">El escape perfecto</title>
+  </programme>
+  <programme start="20210206103600 -0600" stop="20210206121400 -0600" channel="TNT">
+    <title lang="es">Cigüeñas</title>
+  </programme>
+  <programme start="20210206121400 -0600" stop="20210206141200 -0600" channel="TNT">
+    <title lang="es">Lego Batman: La Película</title>
+  </programme>
+  <programme start="20210206141200 -0600" stop="20210206155900 -0600" channel="TNT">
+    <title lang="es">Viaje al centro de la tierra</title>
+  </programme>
+  <programme start="20210206155900 -0600" stop="20210206175300 -0600" channel="TNT">
+    <title lang="es">Sully Hazaña en el Hudson</title>
+  </programme>
+  <programme start="20210206175300 -0600" stop="20210206195500 -0600" channel="TNT">
+    <title lang="es">Son como niños 2</title>
+  </programme>
+  <programme start="20210206195500 -0600" stop="20210206220000 -0600" channel="TNT">
+    <title lang="es">Escalofríos</title>
+  </programme>
+  <programme start="20210206220000 -0600" stop="20210207003800 -0600" channel="TNT">
+    <title lang="es">Corazones de Hierro (Fury)</title>
+  </programme>
+  <programme start="20210207220000 -0600" stop="20210208003800 -0600" channel="TNT">
+    <title lang="es">Corazones de Hierro (Fury)</title>
+  </programme>
+  <programme start="20210208003800 -0600" stop="20210208023600 -0600" channel="TNT">
+    <title lang="es">Dos Armas Letales</title>
+  </programme>
+  <programme start="20210208023600 -0600" stop="20210208045600 -0600" channel="TNT">
+    <title lang="es">Llámame por tu nombre</title>
+  </programme>
+  <programme start="20210208045600 -0600" stop="20210208060000 -0600" channel="TNT">
+    <title lang="es">Cacería de brujas</title>
+  </programme>
+  <programme start="20210208060000 -0600" stop="20210208061700 -0600" channel="TNT">
+    <title lang="es">Hollywood one on one</title>
+  </programme>
+  <programme start="20210208061700 -0600" stop="20210208075800 -0600" channel="TNT">
+    <title lang="es">Agentes secretos</title>
+  </programme>
+  <programme start="20210208075800 -0600" stop="20210208095400 -0600" channel="TNT">
+    <title lang="es">Lego Batman: La Película</title>
+  </programme>
+  <programme start="20210208095400 -0600" stop="20210208112800 -0600" channel="TNT">
+    <title lang="es">Reyes de las olas</title>
+  </programme>
+  <programme start="20210208112800 -0600" stop="20210208133700 -0600" channel="TNT">
+    <title lang="es">Jack El Cazagigantes</title>
+  </programme>
+  <programme start="20210208133700 -0600" stop="20210208153600 -0600" channel="TNT">
+    <title lang="es">Escalofríos</title>
+  </programme>
+  <programme start="20210208153600 -0600" stop="20210208173400 -0600" channel="TNT">
+    <title lang="es">Son como niños 2</title>
+  </programme>
+  <programme start="20210208173400 -0600" stop="20210208194900 -0600" channel="TNT">
+    <title lang="es">Dos Armas Letales</title>
+  </programme>
+  <programme start="20210208194900 -0600" stop="20210208220000 -0600" channel="TNT">
+    <title lang="es">Geo-Tormenta</title>
+  </programme>
+  <programme start="20210208220000 -0600" stop="20210209003600 -0600" channel="TNT">
+    <title lang="es">Llámame por tu nombre</title>
+  </programme>
+  <programme start="20210206012600 -0600" stop="20210206031100 -0600" channel="Space">
+    <title lang="es">12 Horas para Sobrevivir</title>
+  </programme>
+  <programme start="20210206031100 -0600" stop="20210206044200 -0600" channel="Space">
+    <title lang="es">Evil dead posesión infernal</title>
+  </programme>
+  <programme start="20210206044200 -0600" stop="20210206060000 -0600" channel="Space">
+    <title lang="es">Heretiks el convento</title>
+  </programme>
+  <programme start="20210206060000 -0600" stop="20210206073500 -0600" channel="Space">
+    <title lang="es">Cirque du freak</title>
+  </programme>
+  <programme start="20210206073500 -0600" stop="20210206092800 -0600" channel="Space">
+    <title lang="es">El gran maestro</title>
+  </programme>
+  <programme start="20210206092800 -0600" stop="20210206111700 -0600" channel="Space">
+    <title lang="es">Colombiana</title>
+  </programme>
+  <programme start="20210206111700 -0600" stop="20210206125100 -0600" channel="Space">
+    <title lang="es">Juegos de manos</title>
+  </programme>
+  <programme start="20210206125100 -0600" stop="20210206145500 -0600" channel="Space">
+    <title lang="es">Romeo Debe Morir</title>
+  </programme>
+  <programme start="20210206145500 -0600" stop="20210206163700 -0600" channel="Space">
+    <title lang="es">Difícil de matar</title>
+  </programme>
+  <programme start="20210206163700 -0600" stop="20210206183000 -0600" channel="Space">
+    <title lang="es">Medio Muerto</title>
+  </programme>
+  <programme start="20210206183000 -0600" stop="20210206193000 -0600" channel="Space">
+    <title lang="es">Lucha libre AAA</title>
+  </programme>
+  <programme start="20210206193000 -0600" stop="20210206211600 -0600" channel="Space">
+    <title lang="es">Un Golpe con Estilo</title>
+  </programme>
+  <programme start="20210206211600 -0600" stop="20210206232500 -0600" channel="Space">
+    <title lang="es">El Especialista</title>
+  </programme>
+  <programme start="20210206232500 -0600" stop="20210207011400 -0600" channel="Space">
+    <title lang="es">12 Horas para Sobrevivir</title>
+  </programme>
+  <programme start="20210207011400 -0600" stop="20210207024600 -0600" channel="Space">
+    <title lang="es">Evil dead posesión infernal</title>
+  </programme>
+  <programme start="20210207024600 -0600" stop="20210207045300 -0600" channel="Space">
+    <title lang="es">Sin piedad</title>
+  </programme>
+  <programme start="20210207045300 -0600" stop="20210207060000 -0600" channel="Space">
+    <title lang="es">Shock wave Onda expansiva</title>
+  </programme>
+  <programme start="20210207060000 -0600" stop="20210207070400 -0600" channel="Space">
+    <title lang="es">El gran maestro</title>
+  </programme>
+  <programme start="20210207070400 -0600" stop="20210207084400 -0600" channel="Space">
+    <title lang="es">Difícil de matar</title>
+  </programme>
+  <programme start="20210207084400 -0600" stop="20210207103000 -0600" channel="Space">
+    <title lang="es">Medio Muerto</title>
+  </programme>
+  <programme start="20210207103000 -0600" stop="20210207113000 -0600" channel="Space">
+    <title lang="es">Lucha libre AAA</title>
+  </programme>
+  <programme start="20210207113000 -0600" stop="20210207123000 -0600" channel="Space">
+    <title lang="es">Lucha libre AAA</title>
+  </programme>
+  <programme start="20210207123000 -0600" stop="20210207144500 -0600" channel="Space">
+    <title lang="es">AEW All Elite Wrestling</title>
+  </programme>
+  <programme start="20210207144500 -0600" stop="20210207162600 -0600" channel="Space">
+    <title lang="es">Un Golpe con Estilo</title>
+  </programme>
+  <programme start="20210207162600 -0600" stop="20210207180900 -0600" channel="Space">
+    <title lang="es">Los indestructibles 2</title>
+  </programme>
+  <programme start="20210207180900 -0600" stop="20210207195200 -0600" channel="Space">
+    <title lang="es">El ejecutor</title>
+  </programme>
+  <programme start="20210207195200 -0600" stop="20210207215700 -0600" channel="Space">
+    <title lang="es">El Especialista</title>
+  </programme>
+  <programme start="20210207215700 -0600" stop="20210207235500 -0600" channel="Space">
+    <title lang="es">Tango y Cash</title>
+  </programme>
+  <programme start="20210207235500 -0600" stop="20210208013900 -0600" channel="Space">
+    <title lang="es">The Punisher Zona de guerra</title>
+  </programme>
+  <programme start="20210206003000 -0600" stop="20210206023000 -0600" channel="ESPN">
+    <title lang="es">Argentina vs. Japón</title>
+  </programme>
+  <programme start="20210206023000 -0600" stop="20210206043000 -0600" channel="ESPN">
+    <title lang="es">Argentina vs. Japón</title>
+  </programme>
+  <programme start="20210206043000 -0600" stop="20210206060000 -0600" channel="ESPN">
+    <title lang="es">Argentina vs. Japón</title>
+  </programme>
+  <programme start="20210206060000 -0600" stop="20210206070000 -0600" channel="ESPN">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20210206070000 -0600" stop="20210206073000 -0600" channel="ESPN">
+    <title lang="es">UEFA Champions League Weekly</title>
+  </programme>
+  <programme start="20210206073000 -0600" stop="20210206092000 -0600" channel="ESPN">
+    <title lang="es">Fiorentina vs. Inter</title>
+  </programme>
+  <programme start="20210206092000 -0600" stop="20210206113000 -0600" channel="ESPN">
+    <title lang="es">PSV vs. Twente</title>
+  </programme>
+  <programme start="20210206113000 -0600" stop="20210206115000 -0600" channel="ESPN">
+    <title lang="es">Football's Greatest</title>
+  </programme>
+  <programme start="20210206115000 -0600" stop="20210206135500 -0600" channel="ESPN">
+    <title lang="es">Lyon vs. Strasbourg</title>
+  </programme>
+  <programme start="20210206135500 -0600" stop="20210206160000 -0600" channel="ESPN">
+    <title lang="es">Lens vs. Stade Rennais FC</title>
+  </programme>
+  <programme start="20210206160000 -0600" stop="20210206190000 -0600" channel="ESPN">
+    <title lang="es">Argentina vs. Japón</title>
+  </programme>
+  <programme start="20210206190000 -0600" stop="20210206193000 -0600" channel="ESPN">
+    <title lang="es">NBA Action</title>
+  </programme>
+  <programme start="20210206193000 -0600" stop="20210206220000 -0600" channel="ESPN">
+    <title lang="es">Warriors vs. Mavericks</title>
+  </programme>
+  <programme start="20210206220000 -0600" stop="20210206230000 -0600" channel="ESPN">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20210206230000 -0600" stop="20210207000000 -0600" channel="ESPN">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20210207000000 -0600" stop="20210207010000 -0600" channel="ESPN">
+    <title lang="es">Futbol Picante</title>
+  </programme>
+  <programme start="20210207010000 -0600" stop="20210207020000 -0600" channel="ESPN">
+    <title lang="es">NFL Live desde México</title>
+  </programme>
+  <programme start="20210207020000 -0600" stop="20210207030000 -0600" channel="ESPN">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20210207030000 -0600" stop="20210207040000 -0600" channel="ESPN">
+    <title lang="es">Futbol Picante</title>
+  </programme>
+  <programme start="20210207040000 -0600" stop="20210207050000 -0600" channel="ESPN">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20210207050000 -0600" stop="20210207060000 -0600" channel="ESPN">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20210207060000 -0600" stop="20210207070000 -0600" channel="ESPN">
+    <title lang="es">Futbol Picante</title>
+  </programme>
+  <programme start="20210207070000 -0600" stop="20210207071500 -0600" channel="ESPN">
+    <title lang="es">Football's Greatest</title>
+  </programme>
+  <programme start="20210207071500 -0600" stop="20210207093000 -0600" channel="ESPN">
+    <title lang="es">FC Groningen vs. Feyenoord</title>
+  </programme>
+  <programme start="20210207093000 -0600" stop="20210207103000 -0600" channel="ESPN">
+    <title lang="es">Futbol Picante</title>
+  </programme>
+  <programme start="20210207103000 -0600" stop="20210207105000 -0600" channel="ESPN">
+    <title lang="es">Football's Greatest</title>
+  </programme>
+  <programme start="20210207105000 -0600" stop="20210207130000 -0600" channel="ESPN">
+    <title lang="es">Parma vs. Bologna</title>
+  </programme>
+  <programme start="20210207130000 -0600" stop="20210207133000 -0600" channel="ESPN">
+    <title lang="es">SportsCenter (Fin de Semana)</title>
+  </programme>
+  <programme start="20210207133000 -0600" stop="20210207154500 -0600" channel="ESPN">
+    <title lang="es">Lazio vs. Cagliari</title>
+  </programme>
+  <programme start="20210207154500 -0600" stop="20210207160000 -0600" channel="ESPN">
+    <title lang="es">Football's Greatest</title>
+  </programme>
+  <programme start="20210207160000 -0600" stop="20210207170000 -0600" channel="ESPN">
+    <title lang="es">UEFA Champions League Special</title>
+  </programme>
+  <programme start="20210207170000 -0600" stop="20210207180000 -0600" channel="ESPN">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20210207180000 -0600" stop="20210207220000 -0600" channel="ESPN">
+    <title lang="es">Australian Open Tennis</title>
+  </programme>
+  <programme start="20210207220000 -0600" stop="20210208020000 -0600" channel="ESPN">
+    <title lang="es">Australian Open Tennis</title>
+  </programme>
+  <programme start="20210206003000 -0600" stop="20210206013000 -0600" channel="ESPN 2">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20210206013000 -0600" stop="20210206020000 -0600" channel="ESPN 2">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20210206020000 -0600" stop="20210206030000 -0600" channel="ESPN 2">
+    <title lang="es">ESPN Knockout</title>
+  </programme>
+  <programme start="20210206030000 -0600" stop="20210206050000 -0600" channel="ESPN 2">
+    <title lang="es">Fiorentina vs. Inter</title>
+  </programme>
+  <programme start="20210206050000 -0600" stop="20210206060000 -0600" channel="ESPN 2">
+    <title lang="es">ESPN FC</title>
+  </programme>
+  <programme start="20210206060000 -0600" stop="20210206070000 -0600" channel="ESPN 2">
+    <title lang="es">Futbol Picante</title>
+  </programme>
+  <programme start="20210206070000 -0600" stop="20210206073000 -0600" channel="ESPN 2">
+    <title lang="es">NBA Action</title>
+  </programme>
+  <programme start="20210206073000 -0600" stop="20210206075000 -0600" channel="ESPN 2">
+    <title lang="es">ESPN X</title>
+  </programme>
+  <programme start="20210206075000 -0600" stop="20210206100000 -0600" channel="ESPN 2">
+    <title lang="es">Atalanta vs. Torino</title>
+  </programme>
+  <programme start="20210206100000 -0600" stop="20210206105000 -0600" channel="ESPN 2">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20210206105000 -0600" stop="20210206130000 -0600" channel="ESPN 2">
+    <title lang="es">Juventus vs. Roma</title>
+  </programme>
+  <programme start="20210206130000 -0600" stop="20210206133000 -0600" channel="ESPN 2">
+    <title lang="es">SportsCenter (Fin de Semana)</title>
+  </programme>
+  <programme start="20210206133000 -0600" stop="20210206154500 -0600" channel="ESPN 2">
+    <title lang="es">Genoa vs. Napoli</title>
+  </programme>
+  <programme start="20210206154500 -0600" stop="20210206160000 -0600" channel="ESPN 2">
+    <title lang="es">ESPN FC</title>
+  </programme>
+  <programme start="20210206160000 -0600" stop="20210206170000 -0600" channel="ESPN 2">
+    <title lang="es">Buccaneers vs. Packers</title>
+  </programme>
+  <programme start="20210206170000 -0600" stop="20210206180000 -0600" channel="ESPN 2">
+    <title lang="es">NFL Live desde México</title>
+  </programme>
+  <programme start="20210206180000 -0600" stop="20210206200000 -0600" channel="ESPN 2">
+    <title lang="es">PSV vs. Twente</title>
+  </programme>
+  <programme start="20210206200000 -0600" stop="20210206210000 -0600" channel="ESPN 2">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20210206210000 -0600" stop="20210206230000 -0600" channel="ESPN 2">
+    <title lang="es">Juventus vs. Roma</title>
+  </programme>
+  <programme start="20210206230000 -0600" stop="20210207000000 -0600" channel="ESPN 2">
+    <title lang="es">Futbol Picante</title>
+  </programme>
+  <programme start="20210207000000 -0600" stop="20210207010000 -0600" channel="ESPN 2">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20210207010000 -0600" stop="20210207020000 -0600" channel="ESPN 2">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20210207020000 -0600" stop="20210207030000 -0600" channel="ESPN 2">
+    <title lang="es">Futbol Picante</title>
+  </programme>
+  <programme start="20210207030000 -0600" stop="20210207050000 -0600" channel="ESPN 2">
+    <title lang="es">Genoa vs. Napoli</title>
+  </programme>
+  <programme start="20210207050000 -0600" stop="20210207071500 -0600" channel="ESPN 2">
+    <title lang="es">Ajax vs. FC Utrecht</title>
+  </programme>
+  <programme start="20210207071500 -0600" stop="20210207075500 -0600" channel="ESPN 2">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20210207075500 -0600" stop="20210207095500 -0600" channel="ESPN 2">
+    <title lang="es">Milan vs. Crotone</title>
+  </programme>
+  <programme start="20210207095500 -0600" stop="20210207120000 -0600" channel="ESPN 2">
+    <title lang="es">Nantes vs. Lille</title>
+  </programme>
+  <programme start="20210207120000 -0600" stop="20210207130000 -0600" channel="ESPN 2">
+    <title lang="es">SportsCenter (Fin de Semana)</title>
+  </programme>
+  <programme start="20210207130000 -0600" stop="20210207135000 -0600" channel="ESPN 2">
+    <title lang="es">SportsCenter (Fin de Semana)</title>
+  </programme>
+  <programme start="20210207135000 -0600" stop="20210207160000 -0600" channel="ESPN 2">
+    <title lang="es">Olympique de Marseille vs. Paris Saint-Germain</title>
+  </programme>
+  <programme start="20210207160000 -0600" stop="20210207180000 -0600" channel="ESPN 2">
+    <title lang="es">Chiefs vs. Buccaneers</title>
+  </programme>
+  <programme start="20210207180000 -0600" stop="20210207200000 -0600" channel="ESPN 2">
+    <title lang="es">Chiefs vs. Buccaneers</title>
+  </programme>
+  <programme start="20210207200000 -0600" stop="20210207213000 -0600" channel="ESPN 2">
+    <title lang="es">Chiefs vs. Buccaneers</title>
+  </programme>
+  <programme start="20210207213000 -0600" stop="20210207220000 -0600" channel="ESPN 2">
+    <title lang="es">SportsCenter Special</title>
+  </programme>
+  <programme start="20210207220000 -0600" stop="20210207230000 -0600" channel="ESPN 2">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20210206010000 -0600" stop="20210206020000 -0600" channel="FOX sports">
+    <title lang="es">Fox impacto NFL</title>
+  </programme>
+  <programme start="20210206020000 -0600" stop="20210206040000 -0600" channel="FOX sports">
+    <title lang="es">Querétaro vs. Pachuca</title>
+  </programme>
+  <programme start="20210206040000 -0600" stop="20210206050000 -0600" channel="FOX sports">
+    <title lang="es">Central Fox</title>
+  </programme>
+  <programme start="20210206050000 -0600" stop="20210206060000 -0600" channel="FOX sports">
+    <title lang="es">La última palabra</title>
+  </programme>
+  <programme start="20210206060000 -0600" stop="20210206070000 -0600" channel="FOX sports">
+    <title lang="es">Fox impacto NFL</title>
+  </programme>
+  <programme start="20210206070000 -0600" stop="20210206073000 -0600" channel="FOX sports">
+    <title lang="es">Fox Fit</title>
+  </programme>
+  <programme start="20210206073000 -0600" stop="20210206080000 -0600" channel="FOX sports">
+    <title lang="es">Fox Fit</title>
+  </programme>
+  <programme start="20210206080000 -0600" stop="20210206082000 -0600" channel="FOX sports">
+    <title lang="es">Bundesliga weekly</title>
+  </programme>
+  <programme start="20210206082000 -0600" stop="20210206103000 -0600" channel="FOX sports">
+    <title lang="es">Bayer Leverkusen vs. VfB Sttutg</title>
+  </programme>
+  <programme start="20210206103000 -0600" stop="20210206123000 -0600" channel="FOX sports">
+    <title lang="es">WWE Smackdown</title>
+  </programme>
+  <programme start="20210206123000 -0600" stop="20210206130000 -0600" channel="FOX sports">
+    <title lang="es">Fox fight club</title>
+  </programme>
+  <programme start="20210206130000 -0600" stop="20210206133000 -0600" channel="FOX sports">
+    <title lang="es">Inside UFC</title>
+  </programme>
+  <programme start="20210206133000 -0600" stop="20210206140000 -0600" channel="FOX sports">
+    <title lang="es">Fox impacto NFL</title>
+  </programme>
+  <programme start="20210206140000 -0600" stop="20210206170000 -0600" channel="FOX sports">
+    <title lang="es">Chiefs vs. Buccaneers</title>
+  </programme>
+  <programme start="20210206170000 -0600" stop="20210206190000 -0600" channel="FOX sports">
+    <title lang="es">UFC Preliminares</title>
+  </programme>
+  <programme start="20210206190000 -0600" stop="20210206220000 -0600" channel="FOX sports">
+    <title lang="es">UFC fight night En Vivo</title>
+  </programme>
+  <programme start="20210206220000 -0600" stop="20210206230000 -0600" channel="FOX sports">
+    <title lang="es">Fox impacto NFL</title>
+  </programme>
+  <programme start="20210206230000 -0600" stop="20210207000000 -0600" channel="FOX sports">
+    <title lang="es">La última palabra</title>
+  </programme>
+  <programme start="20210207020000 -0600" stop="20210207040000 -0600" channel="FOX sports">
+    <title lang="es">Monterrey vs. UNAM</title>
+  </programme>
+  <programme start="20210207070000 -0600" stop="20210207103000 -0600" channel="FOX sports">
+    <title lang="es">49ers vs. Kansas</title>
+  </programme>
+  <programme start="20210207103000 -0600" stop="20210207104500 -0600" channel="FOX sports">
+    <title lang="es">Latitud fox</title>
+  </programme>
+  <programme start="20210207104500 -0600" stop="20210207114500 -0600" channel="FOX sports">
+    <title lang="es">Road to Super Bowl</title>
+  </programme>
+  <programme start="20210207114500 -0600" stop="20210207140000 -0600" channel="FOX sports">
+    <title lang="es">Palmeiras vs. Tigres</title>
+  </programme>
+  <programme start="20210207140000 -0600" stop="20210207150000 -0600" channel="FOX sports">
+    <title lang="es">Super Bowl Greatest Halftime</title>
+  </programme>
+  <programme start="20210207150000 -0600" stop="20210207180000 -0600" channel="FOX sports">
+    <title lang="es">Kansas City Chiefs vs. Tampa Ba</title>
+  </programme>
+  <programme start="20210207180000 -0600" stop="20210207210000 -0600" channel="FOX sports">
+    <title lang="es">Kansas City Chiefs vs. Tampa Ba</title>
+  </programme>
+  <programme start="20210207210000 -0600" stop="20210207220000 -0600" channel="FOX sports">
+    <title lang="es">Kansas City Chiefs vs. Tampa Ba</title>
+  </programme>
+  <programme start="20210207220000 -0600" stop="20210207230000 -0600" channel="FOX sports">
+    <title lang="es">Central Fox</title>
+  </programme>
+  <programme start="20210207230000 -0600" stop="20210208000000 -0600" channel="FOX sports">
+    <title lang="es">La última palabra</title>
+  </programme>
+  <programme start="20210206030000 -0600" stop="20210206040000 -0600" channel="FOX sports 2">
+    <title lang="es">Central Fox</title>
+  </programme>
+  <programme start="20210206040000 -0600" stop="20210206050000 -0600" channel="FOX sports 2">
+    <title lang="es">Lo mejor de Fox Sports</title>
+  </programme>
+  <programme start="20210206050000 -0600" stop="20210206070000 -0600" channel="FOX sports 2">
+    <title lang="es">Hertha Berlin vs. FC Bayern Mün</title>
+  </programme>
+  <programme start="20210206070000 -0600" stop="20210206080000 -0600" channel="FOX sports 2">
+    <title lang="es">Lo mejor de Fox Sports</title>
+  </programme>
+  <programme start="20210206080000 -0600" stop="20210206100000 -0600" channel="FOX sports 2">
+    <title lang="es">Querétaro vs. Pachuca</title>
+  </programme>
+  <programme start="20210206100000 -0600" stop="20210206110000 -0600" channel="FOX sports 2">
+    <title lang="es">La última palabra</title>
+  </programme>
+  <programme start="20210206110000 -0600" stop="20210206113000 -0600" channel="FOX sports 2">
+    <title lang="es">Inside UFC</title>
+  </programme>
+  <programme start="20210206113000 -0600" stop="20210206120000 -0600" channel="FOX sports 2">
+    <title lang="es">Latitud fox</title>
+  </programme>
+  <programme start="20210206120000 -0600" stop="20210206130000 -0600" channel="FOX sports 2">
+    <title lang="es">Tuzoccer</title>
+  </programme>
+  <programme start="20210206130000 -0600" stop="20210206140000 -0600" channel="FOX sports 2">
+    <title lang="es">WWE Raw Highlight</title>
+  </programme>
+  <programme start="20210206140000 -0600" stop="20210206160000 -0600" channel="FOX sports 2">
+    <title lang="es">WWE Smackdown</title>
+  </programme>
+  <programme start="20210206160000 -0600" stop="20210206170000 -0600" channel="FOX sports 2">
+    <title lang="es">WWE Saturday Night</title>
+  </programme>
+  <programme start="20210206170000 -0600" stop="20210206173000 -0600" channel="FOX sports 2">
+    <title lang="es">Inside UFC</title>
+  </programme>
+  <programme start="20210206173000 -0600" stop="20210206180000 -0600" channel="FOX sports 2">
+    <title lang="es">Fox fight club</title>
+  </programme>
+  <programme start="20210206180000 -0600" stop="20210206183000 -0600" channel="FOX sports 2">
+    <title lang="es">Rumbo a Estambul</title>
+  </programme>
+  <programme start="20210206183000 -0600" stop="20210206203000 -0600" channel="FOX sports 2">
+    <title lang="es">Tigres vs. Ulsan Hyundai</title>
+  </programme>
+  <programme start="20210206203000 -0600" stop="20210206230000 -0600" channel="FOX sports 2">
+    <title lang="es">Monterrey vs. UNAM</title>
+  </programme>
+  <programme start="20210206230000 -0600" stop="20210207000000 -0600" channel="FOX sports 2">
+    <title lang="es">La última palabra</title>
+  </programme>
+  <programme start="20210207000000 -0600" stop="20210207010000 -0600" channel="FOX sports 2">
+    <title lang="es">Fox impacto NFL</title>
+  </programme>
+  <programme start="20210207010000 -0600" stop="20210207040000 -0600" channel="FOX sports 2">
+    <title lang="es">Chiefs vs. Buccaneers</title>
+  </programme>
+  <programme start="20210207040000 -0600" stop="20210207050000 -0600" channel="FOX sports 2">
+    <title lang="es">WWE Raw Highlight</title>
+  </programme>
+  <programme start="20210207050000 -0600" stop="20210207070000 -0600" channel="FOX sports 2">
+    <title lang="es">Monterrey vs. UNAM</title>
+  </programme>
+  <programme start="20210207070000 -0600" stop="20210207080000 -0600" channel="FOX sports 2">
+    <title lang="es">Central Fox</title>
+  </programme>
+  <programme start="20210207080000 -0600" stop="20210207084500 -0600" channel="FOX sports 2">
+    <title lang="es">La última palabra</title>
+  </programme>
+  <programme start="20210207084500 -0600" stop="20210207110000 -0600" channel="FOX sports 2">
+    <title lang="es">Ulsan Hyundai FC vs. Al Duhail</title>
+  </programme>
+  <programme start="20210207110000 -0600" stop="20210207114500 -0600" channel="FOX sports 2">
+    <title lang="es">WWE Smackdown Highlight</title>
+  </programme>
+  <programme start="20210207114500 -0600" stop="20210207140000 -0600" channel="FOX sports 2">
+    <title lang="es">Palmeiras vs. Tigres</title>
+  </programme>
+  <programme start="20210207140000 -0600" stop="20210207150000 -0600" channel="FOX sports 2">
+    <title lang="es">Super Bowl Greatest Halftime</title>
+  </programme>
+  <programme start="20210207150000 -0600" stop="20210207180000 -0600" channel="FOX sports 2">
+    <title lang="es">Kansas City Chiefs vs. Tampa Ba</title>
+  </programme>
+  <programme start="20210207180000 -0600" stop="20210207210000 -0600" channel="FOX sports 2">
+    <title lang="es">Kansas City Chiefs vs. Tampa Ba</title>
+  </programme>
+  <programme start="20210207210000 -0600" stop="20210207220000 -0600" channel="FOX sports 2">
+    <title lang="es">Kansas City Chiefs vs. Tampa Ba</title>
+  </programme>
+  <programme start="20210207220000 -0600" stop="20210207230000 -0600" channel="FOX sports 2">
+    <title lang="es">Fox gol México</title>
+  </programme>
+  <programme start="20210207230000 -0600" stop="20210208023000 -0600" channel="FOX sports 2">
+    <title lang="es">Kansas City Chiefs vs. Tampa Ba</title>
+  </programme>
+  <programme start="20210206000000 +0000" stop="20210206010000 +0000" channel="CITY TV">
+    <title lang="es">La Hija Del Jardinero</title>
+  </programme>
+  <programme start="20210206010000 +0000" stop="20210206023000 +0000" channel="CITY TV">
+    <title lang="es">Citynoticias</title>
+  </programme>
+  <programme start="20210206023000 +0000" stop="20210206030000 +0000" channel="CITY TV">
+    <title lang="es">Hashtag</title>
+  </programme>
+  <programme start="20210206030000 +0000" stop="20210206040000 +0000" channel="CITY TV">
+    <title lang="es">Csi Las Vegas 8</title>
+  </programme>
+  <programme start="20210206040000 +0000" stop="20210206050000 +0000" channel="CITY TV">
+    <title lang="es">Citynoticias</title>
+  </programme>
+  <programme start="20210206050000 +0000" stop="20210206053000 +0000" channel="CITY TV">
+    <title lang="es">Comercial Religioso</title>
+  </programme>
+  <programme start="20210206053000 +0000" stop="20210206083000 +0000" channel="CITY TV">
+    <title lang="es">Arriba Bogotá</title>
+  </programme>
+  <programme start="20210206083000 +0000" stop="20210206093000 +0000" channel="CITY TV">
+    <title lang="es">Fuera Del Aire</title>
+  </programme>
+  <programme start="20210206093000 +0000" stop="20210206110000 +0000" channel="CITY TV">
+    <title lang="es">Citynoticias</title>
+  </programme>
+  <programme start="20210206110000 +0000" stop="20210206123000 +0000" channel="CITY TV">
+    <title lang="es">Arriba Bogotá</title>
+  </programme>
+  <programme start="20210206123000 +0000" stop="20210206170000 +0000" channel="CITY TV">
+    <title lang="es">Bravissimo</title>
+  </programme>
+  <programme start="20210206170000 +0000" stop="20210206180000 +0000" channel="CITY TV">
+    <title lang="es">Citynoticias</title>
+  </programme>
+  <programme start="20210206180000 +0000" stop="20210206190000 +0000" channel="CITY TV">
+    <title lang="es">Citynoticias</title>
+  </programme>
+  <programme start="20210206190000 +0000" stop="20210206203000 +0000" channel="CITY TV">
+    <title lang="es">Oso Yogui</title>
+  </programme>
+  <programme start="20210206203000 +0000" stop="20210206213000 +0000" channel="CITY TV">
+    <title lang="es">El Gato Cosmico</title>
+  </programme>
+  <programme start="20210206213000 +0000" stop="20210206223000 +0000" channel="CITY TV">
+    <title lang="es">Los Padrinos Mágicos</title>
+  </programme>
+  <programme start="20210206223000 +0000" stop="20210206233000 +0000" channel="CITY TV">
+    <title lang="es">Lucha Libre</title>
+  </programme>
+  <programme start="20210206233000 +0000" stop="20210207000000 +0000" channel="CITY TV">
+    <title lang="es">Los Picapiedra</title>
+  </programme>
+  <programme start="20210207000000 +0000" stop="20210207003000 +0000" channel="CITY TV">
+    <title lang="es">Famosos Con City</title>
+  </programme>
+  <programme start="20210207003000 +0000" stop="20210207010000 +0000" channel="CITY TV">
+    <title lang="es">Noctámbulo</title>
+  </programme>
+  <programme start="20210207010000 +0000" stop="20210207020000 +0000" channel="CITY TV">
+    <title lang="es">Citynoticias</title>
+  </programme>
+  <programme start="20210207020000 +0000" stop="20210207030000 +0000" channel="CITY TV">
+    <title lang="es">CSI Las Vegas 6</title>
+  </programme>
+  <programme start="20210207030000 +0000" stop="20210207033000 +0000" channel="CITY TV">
+    <title lang="es">Noticias Del Congreso</title>
+  </programme>
+  <programme start="20210207033000 +0000" stop="20210207040000 +0000" channel="CITY TV">
+    <title lang="es">El Rollo De Fili</title>
+  </programme>
+  <programme start="20210207040000 +0000" stop="20210207043000 +0000" channel="CITY TV">
+    <title lang="es">Noctámbulo</title>
+  </programme>
+  <programme start="20210207043000 +0000" stop="20210207050000 +0000" channel="CITY TV">
+    <title lang="es">Comercial Religioso</title>
+  </programme>
+  <programme start="20210207050000 +0000" stop="20210207080000 +0000" channel="CITY TV">
+    <title lang="es">Bravissimo</title>
+  </programme>
+  <programme start="20210207080000 +0000" stop="20210207093000 +0000" channel="CITY TV">
+    <title lang="es">Fuera Del Aire</title>
+  </programme>
+  <programme start="20210207093000 +0000" stop="20210207103000 +0000" channel="CITY TV">
+    <title lang="es">Los Del Barrio</title>
+  </programme>
+  <programme start="20210207103000 +0000" stop="20210207110000 +0000" channel="CITY TV">
+    <title lang="es">Programa Comercial</title>
+  </programme>
+  <programme start="20210207110000 +0000" stop="20210207113000 +0000" channel="CITY TV">
+    <title lang="es">Noctámbulo</title>
+  </programme>
+  <programme start="20210207113000 +0000" stop="20210207123000 +0000" channel="CITY TV">
+    <title lang="es">Citynoticias</title>
+  </programme>
+  <programme start="20210207123000 +0000" stop="20210207170000 +0000" channel="CITY TV">
+    <title lang="es">Bravissimo</title>
+  </programme>
+  <programme start="20210207170000 +0000" stop="20210207180000 +0000" channel="CITY TV">
+    <title lang="es">Citynoticias</title>
+  </programme>
+  <programme start="20210207180000 +0000" stop="20210207190000 +0000" channel="CITY TV">
+    <title lang="es">Citynoticias</title>
+  </programme>
+  <programme start="20210207190000 +0000" stop="20210207193000 +0000" channel="CITY TV">
+    <title lang="es">Defensor Del TV</title>
+  </programme>
+  <programme start="20210207193000 +0000" stop="20210207203000 +0000" channel="CITY TV">
+    <title lang="es">Oso Yogui</title>
+  </programme>
+  <programme start="20210207203000 +0000" stop="20210207213000 +0000" channel="CITY TV">
+    <title lang="es">El Gato Cosmico</title>
+  </programme>
+  <programme start="20210207213000 +0000" stop="20210207223000 +0000" channel="CITY TV">
+    <title lang="es">Los Padrinos Mágicos</title>
+  </programme>
+  <programme start="20210207223000 +0000" stop="20210207233000 +0000" channel="CITY TV">
+    <title lang="es">Lucha Libre</title>
+  </programme>
+  <programme start="20210207233000 +0000" stop="20210208010000 +0000" channel="CITY TV">
+    <title lang="es">Los Picapiedra</title>
+  </programme>
+</tv>
